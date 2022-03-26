@@ -267,15 +267,15 @@ function esVocal(letra) {
     if (letra.length > 1) {
         return "Dato incorrecto";
     } else if (letra === "a") {
-        return "Es Vocal";
+        return "Es vocal";
     } else if (letra === "e") {
-        return "Es Vocal";
+        return "Es vocal";
     } else if (letra === "i") {
-        return "Es Vocal";
+        return "Es vocal";
     } else if (letra === "o") {
-        return "Es Vocal";
+        return "Es vocal";
     } else if (letra === "u") {
-        return "Es Vocal";
+        return "Es vocal";
     }
     return "Dato incorrecto";
 }
